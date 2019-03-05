@@ -5,13 +5,6 @@ namespace dictionaries
 {
 	class Program
 	{
-		static void PrintDictionary(Dictionary<string, string> dict)
-		{
-			foreach (KeyValuePair<string, string> kvp in dict)
-			{
-					Console.WriteLine($"key: {kvp.Key}, value: {kvp.Value}");
-			}
-		}
 		static void Main(string[] args)
 		{
 			// Define the stocks Dictionary that holds the ticker symbols as the key and the company names as the value. Both are strings.
@@ -74,6 +67,12 @@ namespace dictionaries
 			foreach(KeyValuePair<string, double> stock in stockReport)
 			{
 				Console.WriteLine($"Your position on {stock.Key} is worth ${stock.Value} total.");
+				/*
+				Output:
+				Your position on Toyota is worth $1217.53 total.
+				Your position on Vans is worth $1462.51 total.
+				Your position on Adidas is worth $687.43 total.
+				*/
 			}
 		}
 	}
