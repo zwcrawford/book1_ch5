@@ -1,1 +1,1 @@
-# book1_ch5
+# book1_ch5 - dictionaries, .NET Core command line project

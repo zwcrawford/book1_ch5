@@ -1,0 +1,11 @@
+/Users/zac_crawford/workspace/csharp/dictionaries/obj/Debug/netcoreapp2.2/dictionaries.csprojAssemblyReference.cache
+/Users/zac_crawford/workspace/csharp/dictionaries/obj/Debug/netcoreapp2.2/dictionaries.csproj.CoreCompileInputs.cache
+/Users/zac_crawford/workspace/csharp/dictionaries/obj/Debug/netcoreapp2.2/dictionaries.AssemblyInfoInputs.cache
+/Users/zac_crawford/workspace/csharp/dictionaries/obj/Debug/netcoreapp2.2/dictionaries.AssemblyInfo.cs
+/Users/zac_crawford/workspace/csharp/dictionaries/bin/Debug/netcoreapp2.2/dictionaries.deps.json
+/Users/zac_crawford/workspace/csharp/dictionaries/bin/Debug/netcoreapp2.2/dictionaries.runtimeconfig.json
+/Users/zac_crawford/workspace/csharp/dictionaries/bin/Debug/netcoreapp2.2/dictionaries.runtimeconfig.dev.json
+/Users/zac_crawford/workspace/csharp/dictionaries/bin/Debug/netcoreapp2.2/dictionaries.dll
+/Users/zac_crawford/workspace/csharp/dictionaries/bin/Debug/netcoreapp2.2/dictionaries.pdb
+/Users/zac_crawford/workspace/csharp/dictionaries/obj/Debug/netcoreapp2.2/dictionaries.dll
+/Users/zac_crawford/workspace/csharp/dictionaries/obj/Debug/netcoreapp2.2/dictionaries.pdb
